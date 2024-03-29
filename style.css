@@ -1,0 +1,389 @@
+#big{
+    position: relative;
+    
+}
+
+.navbar1{
+    display: flex;
+    margin-left: 50%;
+    position: absolute;
+    gap: 10px;
+    color: azure;
+}
+
+.advert1{
+    position: absolute;
+    margin-left: 45%;
+    padding-top: 10%;
+    color: azure;
+    font-size: larger;
+
+
+}
+
+.advert2{
+    position: absolute;
+    margin-left: 45%;
+    padding-top: 15%;
+    color: azure;
+    font-size: large;
+
+}
+#button1{
+    position: absolute;
+    background-color: aliceblue;
+    color: coral;
+    padding: 10px;
+    border-radius: 16px;
+    margin-left: 45%;
+    margin-top: 25%;
+}
+.image1{
+    margin-left: 25%;
+}
+
+#combined1{
+    display: flex;
+    margin-left: 30%;
+    gap: 20px;
+}
+.advert3{
+    margin-left: 50%;
+
+}
+
+.advert4{
+    margin-left: 50%;
+}
+.advert8{
+    margin-left: 50%;
+}
+#combinedsnap{
+    display: flex;
+    margin-left: 25%;
+    gap: 20px;
+}
+.browse{
+    margin-left: 50%;
+}
+.twins{
+    display: flex;
+    margin-left: 23%;
+}
+.leather{
+    margin-left: 10%;
+}
+.btn{
+    margin-left: 10%;
+}
+
+.products{
+    color: rgb(238, 136, 64);
+}
+.together{
+    display: flex;
+    margin-left: 20%;
+    gap: 20px;
+}
+.button2{
+    margin-left: 7%;
+    background-color: aliceblue;
+    color: coral;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+.button3{
+    margin-left: 5%;
+    background-color: aliceblue;
+    color: coral;
+    padding: 10px;
+    border-radius: 16px;
+
+}
+.master{
+    margin-left: 5%;
+}
+
+.dinning{
+    display: flex;
+    gap: 10px;
+    margin: 15%;
+}
+
+.button4{
+    background-color: aliceblue;
+    color: coral;
+    padding: 10px;
+    border-radius: 16px;
+
+
+}
+.testimony{
+    margin-left: 30%;
+    font-size: larger;
+}
+
+.ott{
+    display: flex;
+    gap: 30px;
+    margin-left: 20%;
+    font-size: larger;
+}
+.zote{
+    border: 1px;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: palevioletred;
+
+}
+.one{
+    border-radius: 1px;
+    color: black;
+    background-color: aliceblue;
+    margin-right: 5%;
+}
+
+.blogs{
+    margin-left: 50%;
+}
+
+.kadu{
+    flex-wrap: wrap;
+    margin-right: 10%;
+
+    
+}
+.rose{
+    display: flex;
+}
+.tok{
+    display: flex;
+    gap: 10px;
+
+}
+
+.lam{
+    display: flex;
+      gap: 10px;
+
+}
+.sadhi{
+    display: flex;
+    gap: 10px;
+
+}
+.flower{
+    margin-left: 10%;
+}
+
+.footer{
+    display: flex;
+    gap: 20px;
+    margin-left: 50%;
+}
+
+.last1{
+    background-color: aliceblue;
+    color: coral;
+    padding: 10px;
+    border-radius: 16px;
+
+}
+
+
+@media screen and (max-width:1280px){
+    #big{
+        position: relative;
+        
+    }
+    
+    .navbar1{
+        display: flex;
+        /* margin-left: 50%; */
+        position: absolute;
+        gap: 10px;
+        color: azure;
+    }
+    
+    .advert1{
+        position: absolute;
+        /* margin-left: 45%; */
+        /* padding-top: 10%; */
+        color: azure;
+        font-size: larger;
+    
+    
+    }
+    
+    .advert2{
+        position: absolute;
+        /* margin-left: 45%; */
+        /* padding-top: 15%; */
+        color: azure;
+        font-size: large;
+    
+    }
+    #button1{
+        position: absolute;
+        background-color: aliceblue;
+        color: coral;
+        padding: 10px;
+        border-radius: 16px;
+        /* margin-left: 45%; */
+        /* margin-top: 25%; */
+    }
+    .image1{
+        /* margin-left: 25%; */
+    }
+    
+    #combined1{
+        display: flex;
+        /* margin-left: 30%; */
+        gap: 20px;
+    }
+    .advert3{
+        /* margin-left: 50%; */
+    
+    }
+    
+    .advert4{
+        /* margin-left: 50%; */
+    }
+    .advert8{
+        /* margin-left: 50%; */
+    }
+    #combinedsnap{
+        display: flex;
+        /* margin-left: 25%; */
+        gap: 20px;
+    }
+    .browse{
+        /* margin-left: 50%; */
+    }
+    .twins{
+        display: flex;
+        /* margin-left: 23%; */
+    }
+    .leather{
+        /* margin-left: 10%; */
+    }
+    .btn{
+        /* margin-left: 10%; */
+    }
+    
+    .products{
+        color: rgb(238, 136, 64);
+    }
+    .together{
+        display: flex;
+        /* margin-left: 20%; */
+        gap: 20px;
+    }
+    .button2{
+        margin-left: 7%;
+        background-color: aliceblue;
+        color: coral;
+        padding: 10px;
+        border-radius: 16px;
+    }
+    
+    .button3{
+        margin-left: 5%;
+        background-color: aliceblue;
+        color: coral;
+        padding: 10px;
+        border-radius: 16px;
+    
+    }
+    .master{
+        margin-left: 5%;
+    }
+    
+    .dinning{
+        display: flex;
+        gap: 10px;
+        /* margin: 15%; */
+    }
+    
+    .button4{
+        background-color: aliceblue;
+        color: coral;
+        padding: 10px;
+        border-radius: 16px;
+    
+    
+    }
+    .testimony{
+        margin-left: 30%;
+        font-size: larger;
+    }
+    
+    .ott{
+        display: flex;
+        gap: 30px;
+        margin-left: 20%;
+        font-size: larger;
+    }
+    .zote{
+        border: 1px;
+        /* margin-right: 30%; */
+        /* margin-left: 30%; */
+        background-color: palevioletred;
+    
+    }
+    .one{
+        border-radius: 1px;
+        color: black;
+        background-color: aliceblue;
+        margin-right: 5%;
+    }
+    
+    .blogs{
+        /* margin-left: 50%; */
+    }
+    
+    .kadu{
+        flex-wrap: wrap;
+        margin-right: 10%;
+    
+        
+    }
+    .rose{
+        display: flex;
+    }
+    .tok{
+        display: flex;
+        gap: 10px;
+    
+    }
+    
+    .lam{
+        display: flex;
+          gap: 10px;
+    
+    }
+    .sadhi{
+        display: flex;
+        gap: 10px;
+    
+    }
+    .flower{
+        margin-left: 10%;
+    }
+    
+    .footer{
+        display: flex;
+        gap: 20px;
+        /* margin-left: 50%; */
+    }
+    
+    .last1{
+        background-color: aliceblue;
+        color: coral;
+        padding: 10px;
+        border-radius: 16px;
+    
+    }
+
+}
